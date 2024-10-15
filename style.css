@@ -1,4 +1,4 @@
-/* Global Styles */
+
 body {
     font-family: 'Helvetica Neue', sans-serif;
     margin: 0;
@@ -100,7 +100,7 @@ input[type="range"] {
     width: 100%;
 }
 
-/* Product Grid */
+
 .main_conteneur > div {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -143,7 +143,7 @@ input[type="range"] {
     margin-bottom: 10px;
 }
 
-/* Footer */
+
 .pagination {
     display: flex;
     justify-content: center;
